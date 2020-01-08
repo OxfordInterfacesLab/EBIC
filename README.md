@@ -1,2 +1,2 @@
 # EBIC
-Elctron Induced Beam Current
+Electron Induced Beam Current modelling scripts.
