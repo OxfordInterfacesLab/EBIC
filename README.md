@@ -2,7 +2,7 @@
 
 **Modelling Scripts**
 
-For full scientific description see Zhou, et al, Journal of Applied Physics, 2020.
+For full scientific description see R. Zhou, M. Yu, et al, Journal of Applied Physics, Jan, 2020.
 
 To run simulation of a beam scan accross a pn junction run:
 
