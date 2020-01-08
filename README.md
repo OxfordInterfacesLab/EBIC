@@ -8,6 +8,8 @@ To run simulation of a beam scan accross a pn junction run:
 
 Ebic2D_Func(0,1e6\*1e4,5);   0 band bending , SRV= 1e6 cm/s \*1e4 , Ebeam =5 kV
 
+The location of the beam on the x-axis can be specified in variable *x_beam* in Ebic2D_beamscan.m.
+
 ## Generation of Carriers using Werner's function
 Werner’s description is used here:
 The generation function is calculated as:
