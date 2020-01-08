@@ -1,4 +1,5 @@
-# EBIC Electron Induced Beam Current modelling scripts.
+# EBIC Electron  Beam Induced Current 
+**modelling scripts**
 For full scientific description see Zhou, et al, Journal of Applied Physics, 2020.
 
 ## Generation of Carriers using Werner's function
