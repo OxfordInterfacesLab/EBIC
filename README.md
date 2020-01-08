@@ -1,6 +1,12 @@
 # EBIC Electron  Beam Induced Current 
-**modelling scripts**
+
+**Modelling Scripts**
+
 For full scientific description see Zhou, et al, Journal of Applied Physics, 2020.
+
+To run simulation of a beam scan accross a pn junction run:
+
+Ebic2D_Func(0,1e6\*1e4,5);   0 band bending , SRV= 1e6 cm/s \*1e4 , Ebeam =5 kV
 
 ## Generation of Carriers using Werner's function
 Werner’s description is used here:
